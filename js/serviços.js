@@ -65,19 +65,19 @@ tabs.forEach((tab) => {
     tabs.forEach((tab) => tab.classList.remove("selected-tab"));
     tab.classList.add("selected-tab");
     if (tab === tabs[0]) {
-      beforePrice1.innerHTML = "A partir de <span>R$296,50</span>";
-      afterPrice1.innerHTML = "R$259,00<span>/mês</span>";
-      beforePrice2.innerHTML = "De <span>R$396,16</span>";
-      afterPrice2.innerHTML = "R$349,00<span>/mês</span>";
-      beforePrice3.innerHTML = "De <span>R$570,58</span>";
-      afterPrice3.innerHTML = "R$499,00<span>/mês</span>";
+      beforePrice1.innerHTML = "A partir de <span>R$200,00</span>";
+      afterPrice1.innerHTML = "R$100,00<span>/mês</span>";
+      beforePrice2.innerHTML = "De <span>R$300,00</span>";
+      afterPrice2.innerHTML = "R$200,00<span>/mês</span>";
+      beforePrice3.innerHTML = "De <span>R$400,00</span>";
+      afterPrice3.innerHTML = "R$300,00<span>/mês</span>";
     } else {
-      beforePrice1.innerHTML = "A partir de <span>R$421,08</span>";
-      afterPrice1.innerHTML = "R$369,00<span>/mês</span>";
-      beforePrice2.innerHTML = "De <span>R$520,75</span>";
-      afterPrice2.innerHTML = "R$459,00<span>/mês</span>";
-      beforePrice3.innerHTML = "De <span>R$695,16</span>";
-      afterPrice3.innerHTML = "R$609,00<span>/mês</span>";
+      beforePrice1.innerHTML = "A partir de <span>R$300,00</span>";
+      afterPrice1.innerHTML = "R$200,00<span>/mês</span>";
+      beforePrice2.innerHTML = "De <span>R$400,00</span>";
+      afterPrice2.innerHTML = "R$300,00<span>/mês</span>";
+      beforePrice3.innerHTML = "De <span>R$500,00</span>";
+      afterPrice3.innerHTML = "R$400,00<span>/mês</span>";
     }
   });
 });

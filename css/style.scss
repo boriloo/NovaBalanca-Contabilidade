@@ -3,8 +3,8 @@
 /* 14 de maio */
 
 :root {
-  --laranja: #ff5226;
-  --laranjinha: #ffe9e3;
+  --laranja: #2643ff;
+  --laranjinha: #e3eaff;
   --cinza-escuro: #1f2224;
   --cinzinha: #e2e8f0;
   --cinza: #898d8f;
@@ -47,7 +47,7 @@
 }
 
 .orange-text {
-  color: #ff5226;
+  color: #2643ff;
 }
 
 .owl-stage {
@@ -57,7 +57,7 @@
 
 .button {
   text-align: center;
-  background-color: #ff5226;
+  background-color: #2643ff;
   font-size: 16px;
   line-height: 16px;
   font-weight: 700;
@@ -86,7 +86,7 @@
   color: var(--laranja);
 
   &:hover {
-    background-color: #ff5226;
+    background-color: #2643ff;
     color: var(--laranjinha);
   }
 }
@@ -174,7 +174,7 @@ header {
     }
 
     .current {
-      background-color: #ff5226;
+      background-color: #2643ff;
       color: white;
     }
 
@@ -265,7 +265,7 @@ main {
   .home-container {
     width: 100%;
     min-height: 620px;
-    background-image: url("../assets/poa.jpeg");
+    background-image: url("../assets/poa.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -307,7 +307,7 @@ main {
           text-align: center;
 
           span {
-            color: rgb(255, 153, 0);
+            color: rgb(0, 68, 255);
           }
 
           b {
@@ -351,7 +351,7 @@ main {
         text-align: start;
 
         span {
-          color: #ff5226;
+          color: #2643ff;
         }
       }
 
@@ -532,7 +532,7 @@ main {
     line-height: 48px;
 
     span {
-      color: #ff5226;
+      color: #2643ff;
     }
   }
 
@@ -588,7 +588,7 @@ main {
       line-height: 48px;
 
       span {
-        color: #ff5226;
+        color: #2643ff;
       }
     }
 
@@ -618,7 +618,7 @@ main {
   z-index: 2;
   width: 95%;
   max-width: 456px;
-  min-height: 1170px;
+  min-height: 770px;
   box-shadow: 0px 5px 20px rgba(66, 135, 245, 0.18);
   border-radius: 43px;
   padding: 30px;
@@ -714,6 +714,7 @@ main {
       img {
         opacity: 0.7;
       }
+
       p {
         text-decoration: line-through;
         opacity: 0.7;
@@ -760,7 +761,7 @@ main {
 }
 
 .planAlter {
-  background-color: #ff5226;
+  background-color: #2643ff;
 
   h1,
   p,
@@ -777,6 +778,7 @@ main {
   }
 
   .price-column {
+
     p,
     h1 {
       color: white;
@@ -797,60 +799,61 @@ main {
 
   .button {
     background-color: white;
-    color: #ff5226;
+    color: #2643ff;
 
     &:hover {
       border: 1px solid white;
-      background-color: #ff5226;
+      background-color: #2643ff;
       color: white;
     }
   }
 }
 
 .planAlterBlack {
-  background-color: #1f2224;
+  background-color: #141516;
 
   h1,
   p,
   .line {
-    color: #ff5816;
+    color: #2643ff;
   }
 
   .little-p {
-    color: #ff5816;
+    color: #2643ff;
 
     b {
-      color: #ff5816;
+      color: #2643ff;
     }
   }
 
   .price-column {
+
     p,
     h1 {
-      color: #ff5816;
+      color: #2643ff;
 
       span {
-        color: #ff5816;
+        color: #2643ff;
       }
     }
   }
 
   .column .row p {
-    color: #ff5816;
+    color: #2643ff;
 
     span {
-      color: #ff5816;
+      color: #2643ff;
     }
   }
 
   .button {
-    background-color: #ff5816;
+    background-color: #2643ff;
     color: white;
 
     &:hover {
-      border: 1px solid #ff5816;
+      border: 1px solid #2643ff;
       background-color: transparent;
-      color: #ff5816;
+      color: #2643ff;
     }
   }
 }
@@ -932,7 +935,7 @@ main {
     line-height: 48px;
 
     span {
-      color: #ff5226;
+      color: #2643ff;
     }
   }
 
@@ -1081,7 +1084,7 @@ footer {
         line-height: 18px;
 
         span {
-          color: #ff5226;
+          color: #2643ff;
           font-weight: 700;
           font-size: 18px;
           line-height: 18px;
@@ -1156,7 +1159,7 @@ footer {
     line-height: 48px;
 
     span {
-      color: #ff5226;
+      color: #2643ff;
     }
   }
 
@@ -1182,7 +1185,7 @@ footer {
         line-height: 16px;
         font-size: 16px;
         font-weight: 700;
-        color: #ff5226;
+        color: #2643ff;
         padding: 18px;
         border: 1px solid #daddde;
         border-top-left-radius: 48px;
@@ -1190,7 +1193,7 @@ footer {
         transition: 0.4s;
 
         &:hover {
-          background-color: #ff5226;
+          background-color: #2643ff;
           color: white;
         }
       }
@@ -1199,7 +1202,7 @@ footer {
         line-height: 16px;
         font-size: 16px;
         font-weight: 700;
-        color: #ff5226;
+        color: #2643ff;
         padding: 18px;
         border: 1px solid #daddde;
         border-top-right-radius: 48px;
@@ -1207,7 +1210,7 @@ footer {
         transition: 0.4s;
 
         &:hover {
-          background-color: #ff5226;
+          background-color: #2643ff;
           color: white;
         }
       }
@@ -1469,6 +1472,7 @@ footer {
     padding: 10px;
     border-radius: 10px;
     background-color: white;
+
     h1 {
       color: var(--laranja);
     }
@@ -1645,7 +1649,7 @@ header nav .row .row {
     border-radius: 10px;
 
     &:hover {
-      background-color: #ff804d;
+      background-color: #4d7aff;
     }
 
     .row {
@@ -1666,7 +1670,7 @@ header nav .row .row {
 .section-1 {
   margin-top: 48px;
   width: 100%;
-  background-image: linear-gradient(to right, #ff3532 20%, #ff8d4c);
+  background-image: linear-gradient(to right, #3932ff 20%, #4cccff);
   align-items: center;
   justify-content: center;
   gap: 25px;
@@ -1762,6 +1766,7 @@ header nav .row .row {
         font-size: 20px;
         font-weight: 500;
         transition: 0.4s;
+
         b {
           color: white;
         }
@@ -1778,73 +1783,27 @@ header nav .row .row {
 
     .lvl1 {
       background-color: rgb(255, 217, 0);
-      // h1 {
-      //   color: rgb(77, 15, 0);
-      //   span {
-      //     color: rgb(77, 15, 0);
-      //   }
-      // }
-      // p {
-      //   color: rgb(77, 15, 0);
-      //   b {
-      //     color: rgb(77, 15, 0);
-      //   }
-      // }
     }
 
     .lvl2 {
       background-color: rgb(255, 94, 0);
-      // h1 {
-      //   color: white;
-      //   span {
-      //     color: white;
-      //   }
-      // }
-      // p {
-      //   color: white;
-      //   b {
-      //     color: white;
-      //   }
-      // }
     }
 
     .lvl3 {
       background-color: rgb(255, 0, 0);
-      // h1 {
-      //   color: rgb(255, 207, 103);
-      //   span {
-      //     color: rgb(255, 207, 103);
-      //   }
-      // }
-      // p {
-      //   color: rgb(255, 207, 103);
-      //   b {
-      //     color: rgb(255, 207, 103);
-      //   }
-      // }
+
     }
 
     .lvl4 {
       background-color: rgb(29, 29, 29);
-      // h1 {
-      //   color: rgb(255, 81, 0);
-      //   span {
-      //     color: rgb(255, 81, 0);
-      //   }
-      // }
-      // p {
-      //   color: rgb(255, 81, 0);
-      //   b {
-      //     color: rgb(255, 81, 0);
-      //   }
-      // }
+
     }
   }
 }
 
 .section-3 {
   margin-top: 48px;
-  background-image: radial-gradient(circle, #471103, black 70%);
+  background-image: radial-gradient(circle, #030a47, black 70%);
   background-attachment: fixed;
   padding: 80px 40px 80px 40px;
   align-items: center;
@@ -1854,7 +1813,7 @@ header nav .row .row {
   overflow: hidden;
 
   img {
-    filter: drop-shadow(0px 0px 30px rgba(255, 153, 0, 0.733));
+    filter: drop-shadow(0px 0px 30px rgba(0, 102, 255, 0.733));
   }
 
   h1 {
@@ -1863,7 +1822,7 @@ header nav .row .row {
     line-height: 48px;
     font-weight: 700;
     text-align: center;
-    // background-image: radial-gradient(circle, rgb(255, 153, 0), var(--laranja));
+    // background-image: radial-gradient(circle, rgb(0, 68, 255), var(--laranja));
     background-position: center -270px;
     background-size: auto 500px;
     color: white;
@@ -1893,10 +1852,12 @@ header nav .row .row {
     text-align: center;
     color: white;
   }
+
   a {
     border: 2px solid transparent;
     margin-top: 20px;
   }
+
   a:hover {
     border: 2px solid white;
   }
@@ -1945,6 +1906,7 @@ header nav .row .row {
       display: none;
     }
   }
+
   .main-1st {
     .column {
       .row {
@@ -1974,6 +1936,7 @@ header nav .row .row {
   }
 
   .main-2nd article {
+
     .row,
     .row-2 {
       flex-wrap: wrap;

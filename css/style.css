@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
 /* 14 de maio */
 :root {
-  --laranja: #ff5226;
-  --laranjinha: #ffe9e3;
+  --laranja: #2643ff;
+  --laranjinha: #e3eaff;
   --cinza-escuro: #1f2224;
   --cinzinha: #e2e8f0;
   --cinza: #898d8f;
@@ -44,7 +44,7 @@
 }
 
 .orange-text {
-  color: #ff5226;
+  color: #2643ff;
 }
 
 .owl-stage {
@@ -54,7 +54,7 @@
 
 .button {
   text-align: center;
-  background-color: #ff5226;
+  background-color: #2643ff;
   font-size: 16px;
   line-height: 16px;
   font-weight: 700;
@@ -82,7 +82,7 @@
   color: var(--laranja);
 }
 .alter:hover {
-  background-color: #ff5226;
+  background-color: #2643ff;
   color: var(--laranjinha);
 }
 
@@ -166,7 +166,7 @@ header .ham-content a {
   width: 100%;
 }
 header .ham-content .current {
-  background-color: #ff5226;
+  background-color: #2643ff;
   color: white;
 }
 header .ham-content .button {
@@ -246,7 +246,7 @@ main .currentContainer .current span {
 .main-1st .home-container {
   width: 100%;
   min-height: 620px;
-  background-image: url("../assets/poa.jpeg");
+  background-image: url("../assets/poa.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -287,7 +287,7 @@ main .currentContainer .current span {
   text-align: center;
 }
 .main-1st .home-container .img-container .card h1 span {
-  color: rgb(255, 153, 0);
+  color: rgb(0, 68, 255);
 }
 .main-1st .home-container .img-container .card h1 b {
   color: white;
@@ -323,7 +323,7 @@ main .currentContainer .current span {
   text-align: start;
 }
 .main-1st .row .column h1 span {
-  color: #ff5226;
+  color: #2643ff;
 }
 .main-1st .row .column p {
   font-size: 18px;
@@ -478,7 +478,7 @@ main .currentContainer .current span {
   line-height: 48px;
 }
 .main-3rd .column h1 span {
-  color: #ff5226;
+  color: #2643ff;
 }
 .main-3rd .column .row {
   width: 100%;
@@ -527,7 +527,7 @@ main .currentContainer .current span {
   line-height: 48px;
 }
 .main-4th .column h1 span {
-  color: #ff5226;
+  color: #2643ff;
 }
 .main-4th .column p {
   text-align: center;
@@ -552,7 +552,7 @@ main .currentContainer .current span {
   z-index: 2;
   width: 95%;
   max-width: 456px;
-  min-height: 1170px;
+  min-height: 770px;
   box-shadow: 0px 5px 20px rgba(66, 135, 245, 0.18);
   border-radius: 43px;
   padding: 30px;
@@ -673,7 +673,7 @@ main .currentContainer .current span {
 }
 
 .planAlter {
-  background-color: #ff5226;
+  background-color: #2643ff;
 }
 .planAlter h1,
 .planAlter p,
@@ -702,50 +702,50 @@ main .currentContainer .current span {
 }
 .planAlter .button {
   background-color: white;
-  color: #ff5226;
+  color: #2643ff;
 }
 .planAlter .button:hover {
   border: 1px solid white;
-  background-color: #ff5226;
+  background-color: #2643ff;
   color: white;
 }
 
 .planAlterBlack {
-  background-color: #1f2224;
+  background-color: #141516;
 }
 .planAlterBlack h1,
 .planAlterBlack p,
 .planAlterBlack .line {
-  color: #ff5816;
+  color: #2643ff;
 }
 .planAlterBlack .little-p {
-  color: #ff5816;
+  color: #2643ff;
 }
 .planAlterBlack .little-p b {
-  color: #ff5816;
+  color: #2643ff;
 }
 .planAlterBlack .price-column p,
 .planAlterBlack .price-column h1 {
-  color: #ff5816;
+  color: #2643ff;
 }
 .planAlterBlack .price-column p span,
 .planAlterBlack .price-column h1 span {
-  color: #ff5816;
+  color: #2643ff;
 }
 .planAlterBlack .column .row p {
-  color: #ff5816;
+  color: #2643ff;
 }
 .planAlterBlack .column .row p span {
-  color: #ff5816;
+  color: #2643ff;
 }
 .planAlterBlack .button {
-  background-color: #ff5816;
+  background-color: #2643ff;
   color: white;
 }
 .planAlterBlack .button:hover {
-  border: 1px solid #ff5816;
+  border: 1px solid #2643ff;
   background-color: transparent;
-  color: #ff5816;
+  color: #2643ff;
 }
 
 .main-5th .column .column {
@@ -819,7 +819,7 @@ main .currentContainer .current span {
   line-height: 48px;
 }
 .main-5th .column h1 span {
-  color: #ff5226;
+  color: #2643ff;
 }
 .main-5th .column .row {
   width: 100%;
@@ -951,7 +951,7 @@ footer .row .column a {
   line-height: 18px;
 }
 footer .row .column a span {
-  color: #ff5226;
+  color: #2643ff;
   font-weight: 700;
   font-size: 18px;
   line-height: 18px;
@@ -1013,7 +1013,7 @@ footer .row .footInfo p b {
   line-height: 48px;
 }
 .main-6th h1 span {
-  color: #ff5226;
+  color: #2643ff;
 }
 .main-6th .row {
   width: 100%;
@@ -1036,7 +1036,7 @@ footer .row .footInfo p b {
   line-height: 16px;
   font-size: 16px;
   font-weight: 700;
-  color: #ff5226;
+  color: #2643ff;
   padding: 18px;
   border: 1px solid #daddde;
   border-top-left-radius: 48px;
@@ -1044,14 +1044,14 @@ footer .row .footInfo p b {
   transition: 0.4s;
 }
 .main-6th .row-2 .row .ant:hover {
-  background-color: #ff5226;
+  background-color: #2643ff;
   color: white;
 }
 .main-6th .row-2 .row .pro {
   line-height: 16px;
   font-size: 16px;
   font-weight: 700;
-  color: #ff5226;
+  color: #2643ff;
   padding: 18px;
   border: 1px solid #daddde;
   border-top-right-radius: 48px;
@@ -1059,7 +1059,7 @@ footer .row .footInfo p b {
   transition: 0.4s;
 }
 .main-6th .row-2 .row .pro:hover {
-  background-color: #ff5226;
+  background-color: #2643ff;
   color: white;
 }
 .main-6th .row-2 p {
@@ -1441,7 +1441,7 @@ header nav .row .row .downed .arrow {
   border-radius: 10px;
 }
 .contador .column:hover {
-  background-color: #ff804d;
+  background-color: #4d7aff;
 }
 .contador .column .row {
   align-items: center;
@@ -1457,7 +1457,7 @@ header nav .row .row .downed .arrow {
 .section-1 {
   margin-top: 48px;
   width: 100%;
-  background-image: linear-gradient(to right, #ff3532 20%, #ff8d4c);
+  background-image: linear-gradient(to right, #3932ff 20%, #4cccff);
   align-items: center;
   justify-content: center;
   gap: 25px;
@@ -1570,7 +1570,7 @@ header nav .row .row .downed .arrow {
 
 .section-3 {
   margin-top: 48px;
-  background-image: radial-gradient(circle, #471103, black 70%);
+  background-image: radial-gradient(circle, #030a47, black 70%);
   background-attachment: fixed;
   padding: 80px 40px 80px 40px;
   align-items: center;
@@ -1580,7 +1580,7 @@ header nav .row .row .downed .arrow {
   overflow: hidden;
 }
 .section-3 img {
-  filter: drop-shadow(0px 0px 30px rgba(255, 153, 0, 0.733));
+  filter: drop-shadow(0px 0px 30px rgba(0, 102, 255, 0.733));
 }
 .section-3 h1 {
   text-align: center;
